@@ -22,9 +22,9 @@ Welcome to the Kotlin Multiplatform (KMP) MVVM starter template! This template p
 - [Kotlin Multiplatform Samples](https://github.com/android/kotlin-multiplatform-samples): Official Kotlin Multiplatform samples repository by Android team.
 - [Room KMP Documentation](https://developer.android.com/kotlin/multiplatform/room): Learn how to use Room in Kotlin Multiplatform projects.
 - [Compose Tips: Room in KMP](https://www.youtube.com/watch?v=2E-3FDRPmYI): Video tutorial on integrating Room with Jetpack Compose in Kotlin Multiplatform.
-- [How to Share ViewModel in Compose Navigation](https://www.youtube.com/watch?v=O85qOS7U3XQ): Video guide on sharing ViewModel instances in Jetpack Compose Navigation.
+- [How to Share ViewModel in Compose Navigation by Philipp Lackner](https://www.youtube.com/watch?v=O85qOS7U3XQ): Video guide on sharing ViewModel instances in Jetpack Compose Navigation.
 - [Kotlin Symbol Processing (KSP)](https://kotlinlang.org/docs/ksp-multiplatform.html): Official documentation for Kotlin Symbol Processing in multiplatform projects.
-- [MVVM Todo App Tutorial](https://www.youtube.com/watch?v=1TLk36FdmMA): Video tutorial demonstrating MVVM architecture in a todo app (reference).
+- [MVVM Todo App Tutorial by Stevdza-San](https://www.youtube.com/watch?v=1TLk36FdmMA): Video tutorial demonstrating MVVM architecture in a todo app (reference).
 
 ## Project Reference
 
